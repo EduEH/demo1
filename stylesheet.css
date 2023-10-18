@@ -1,0 +1,32 @@
+header nav{
+    font-family: fantasy;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-evenly;
+}
+#selfie{
+    float: right;
+    height: 200px;
+    width: 200px;
+}
+body{
+    font-family: fantasy;
+}
+img{
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+body {
+    width: 1000px;
+    margin: 0 auto;
+    background: url(background.jpg);
+    background-size: cover;
+}
+ul{
+    list-style: square;
+}
+.blogbody{
+    
+    
+}
